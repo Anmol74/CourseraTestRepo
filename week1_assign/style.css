@@ -12,6 +12,7 @@ body
 	margin-bottom: 5%;
 }
 h1{
+	text-align: centre;
 	margin-top: 5%;
 	margin-bottom: 15px;
 	colour:#ff3452;
@@ -42,6 +43,7 @@ h1{
 
 .content-body
 {
+	background-color: grey;
 	border: 5px solid black;
 	width:90%;
 	height auto;
