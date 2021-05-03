@@ -13,9 +13,8 @@ body
 }
 h1 {
 	text-align: center;
-	margin-top: 5%;
 	margin-bottom: 15px;
-	colour:#ff3452;
+	color:#ff3452;
 	font-size: 50px;
 }
 
@@ -43,7 +42,6 @@ h1 {
 
 .content-body
 {
-	background-color: #8B8482;
 	border: 5px solid black;
 	width:90%;
 	height auto;
@@ -91,7 +89,7 @@ h1 {
     margin-left: -10px;
     width: 100%;
   }
-  .name3{
+  .Sushi{
     margin-right: 65px;
     width: 100px;
   }
