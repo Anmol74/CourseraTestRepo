@@ -43,7 +43,7 @@ h1 {
 .content-body
 {
 	border: 5px solid black;
-	width:100%;
+	width:90%;
 	height auto;
 	margin: 2.5%;
 	color: black;
@@ -86,12 +86,16 @@ h1 {
     width: 50%;
   }
   .col-md-12 {
-   /* margin-left: -10px;*/
+    margin-left: -10px;
     width: 100%;
   }
   #Sushi{
    /* margin-right: 65px;*/
     width: 100px;
+  }
+  #Sushi_body
+  {
+  	width :100%;
   }
 }
 
